@@ -1,18 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=정상우&fontSize=30&animation=twinkling)
-## 👩🏻‍💻 Experience
 
+<h3 align="center">🛠 Tech Stack</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
 
-## 📚 Interested in
+<h3 align="center"> Contact Me </h3>
+<p align="center">
+  <a href="mailto:jsw0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsw0413@gmail.com"/></a>
+</p>
+<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangw00&show_icons=true&theme=algolia" />
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangw00&count_bg=%237075C7&title_bg=%23030B47&icon=github.svg&icon_color=%238CED55&title=hits&edge_flat=false"/></a>
+</p>
 
-<div>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangw3433%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/-Contact%20Me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsw0413@gmail.com)](mailto:jsw0413@gmail.com)
-</div>
-
-<div>
-  
-![Sangwoo's github stats](https://github-readme-stats.vercel.app/api?username=sangw00&show_icons=true&theme=algolia)
-</div>
