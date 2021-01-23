@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=정상우&fontSize=70&animation=twinkling)
-
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangw00&count_bg=%237075C7&title_bg=%23030B47&icon=github.svg&icon_color=%238CED55&title=hits&edge_flat=false"/>
+</p>
+ 
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
@@ -11,12 +14,7 @@
 <h3 align="center">📧 Contact Me </h3>
 <p align="center">
   <a href="mailto:jsw0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsw0413@gmail.com"/></a>
+  
 </p>
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangw00&show_icons=true&theme=algolia" />
-  <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangw00&count_bg=%237075C7&title_bg=%23030B47&icon=github.svg&icon_color=%238CED55&title=hits&edge_flat=false"/></a>
-</p>
 
