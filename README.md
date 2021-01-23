@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> Contact Me </h3>
+<h3 align="center">📧 Contact Me </h3>
 <p align="center">
   <a href="mailto:jsw0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsw0413@gmail.com"/></a>
 </p>
