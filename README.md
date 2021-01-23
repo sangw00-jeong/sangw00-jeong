@@ -12,4 +12,7 @@
 </div>
 
 ![Sangwoo's github stats](https://github-readme-stats.vercel.app/api?username=sangw3433&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangw3433&layout=compact&theme=algolia)](https://github.com/sangw3433)
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangw3433&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+</div>
