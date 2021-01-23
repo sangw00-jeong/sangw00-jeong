@@ -16,7 +16,3 @@
   
 ![Sangwoo's github stats](https://github-readme-stats.vercel.app/api?username=sangw00&show_icons=true&theme=algolia)
 </div>
-<div>
-  
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeong3127)](https://solved.ac/jeong3127)
-</div>
